@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#Header {
+    background-color: #ECF3FF;
+    height: 50px;
+}
+
+#Header .Header-left {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.Header-right {
+    display: inline-block;
+    margin-left: 50rem;
+}
+
+.Header-right {
+    display: inline-block;
+}
+
+#Header .Header-right {
+    color: #fff;
+    text-decoration: none;
+}
+
+#Log-In {
+    margin-top: 5rem;
+}
+
+.form {
+    width: 500px;
+    margin: 0 auto;
+    background-color: beige;
+
+}
+
+.box {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.name {
+    padding: 10px;
+}
+
+.select {
+    padding: 10px;
+}
+
+.Gender{
+    padding: 10px;
+
+}
+
+.select label {
+    display: block;
+}
+.Gender .Gender-label {
+    display: block;
+}
+
+.Gender .Form {
+    padding: 10px;
+}
+
+.Gender .Form .radio{
+    display: inline-block;
+    border: 1px solid;
+}
+.inputs input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 95%;
+    background-color: transparent;
+    border: 1px solid;
+    padding: 5px;
+}
+.bottom{
+    text-align: center;
+    margin-top: 2rem;
+}
+.bottom a{
+    text-decoration: none;
+
+}
+.bottom button{
+    width: 200px;
+    height: 40px;
+    border: 1px solid;
+    background-color: greenyellow;
+    color: #fff;
+    border-radius: 5px;
+}
+.bottom a{
+    margin-top: 1rem;
+    display: block;
+    color: blue;
+}
